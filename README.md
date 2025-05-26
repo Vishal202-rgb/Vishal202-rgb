@@ -29,6 +29,13 @@
 </p>
 
 ---
+### 🎧 Now Playing
+
+<p align="center">
+  <a href="https://spotify.com">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USERNAME&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ### 📈 GitHub Stats:
 
