@@ -23,6 +23,8 @@
   <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" /> </a>
   <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" /> </a>
   <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" /> </a>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
   <!-- Add more as needed -->
 </p>
 
