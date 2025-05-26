@@ -61,7 +61,7 @@ Here are a few highlighted projects:
 ### 💬 Let's Connect!
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourusername" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
-  <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
+  <a href="https://linkedin.com/in/vishal202-rgb/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="mailto:vishalkumar150206@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+  <a href="https://twitter.com/VishalKuma82042" target="blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>
