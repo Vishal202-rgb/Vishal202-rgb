@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **MERN.**
 - 👯 I’m looking to collaborate on **Web Dev Projects.**
 - 💬 Ask me about **Exploring and Innovation.**
-- 📫 How to reach me **vishalkumar150206@email.com**
+- 📫 How to reach me **vishalkumar150206@gmail.com**
 - ⚡ Fun fact **IF I AM A CODER I KNOW HOW TO SOLVE THE ERROR**
 
 ---
